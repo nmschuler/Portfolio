@@ -1,0 +1,1 @@
+Finish Review Questions 6 and 7 on page 223. In both cases you must create an ERD in Crow's Foot format. As a minimum you must have at least all the appropriate keys and at least one non-key attribute for each table. All answers must be prepared electronically.

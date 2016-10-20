@@ -1,0 +1,1 @@
+Exams in this class were structured in three parts: multiple choice, essay, and practical. In addition to the normally graded practical part, we were offered extra credit.

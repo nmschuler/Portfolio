@@ -1,0 +1,9 @@
+F:\CIS Classes\CIS 199\Demo from book\Flags\Flags\bin\Debug\Flags.exe.config
+F:\CIS Classes\CIS 199\Demo from book\Flags\Flags\bin\Debug\Flags.exe
+F:\CIS Classes\CIS 199\Demo from book\Flags\Flags\bin\Debug\Flags.pdb
+F:\CIS Classes\CIS 199\Demo from book\Flags\Flags\obj\Debug\Flags.csprojResolveAssemblyReference.cache
+F:\CIS Classes\CIS 199\Demo from book\Flags\Flags\obj\Debug\Flags.flagsForm.resources
+F:\CIS Classes\CIS 199\Demo from book\Flags\Flags\obj\Debug\Flags.Properties.Resources.resources
+F:\CIS Classes\CIS 199\Demo from book\Flags\Flags\obj\Debug\Flags.csproj.GenerateResource.Cache
+F:\CIS Classes\CIS 199\Demo from book\Flags\Flags\obj\Debug\Flags.exe
+F:\CIS Classes\CIS 199\Demo from book\Flags\Flags\obj\Debug\Flags.pdb

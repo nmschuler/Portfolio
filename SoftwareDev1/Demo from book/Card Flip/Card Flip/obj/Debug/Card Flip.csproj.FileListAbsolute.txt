@@ -1,0 +1,9 @@
+F:\CIS Classes\CIS 199\Demo from book\Card Flip\Card Flip\bin\Debug\Card Flip.exe.config
+F:\CIS Classes\CIS 199\Demo from book\Card Flip\Card Flip\obj\Debug\Card Flip.csprojResolveAssemblyReference.cache
+F:\CIS Classes\CIS 199\Demo from book\Card Flip\Card Flip\obj\Debug\Card_Flip.cardFlipForm.resources
+F:\CIS Classes\CIS 199\Demo from book\Card Flip\Card Flip\obj\Debug\Card_Flip.Properties.Resources.resources
+F:\CIS Classes\CIS 199\Demo from book\Card Flip\Card Flip\obj\Debug\Card Flip.csproj.GenerateResource.Cache
+F:\CIS Classes\CIS 199\Demo from book\Card Flip\Card Flip\bin\Debug\Card Flip.exe
+F:\CIS Classes\CIS 199\Demo from book\Card Flip\Card Flip\bin\Debug\Card Flip.pdb
+F:\CIS Classes\CIS 199\Demo from book\Card Flip\Card Flip\obj\Debug\Card Flip.exe
+F:\CIS Classes\CIS 199\Demo from book\Card Flip\Card Flip\obj\Debug\Card Flip.pdb

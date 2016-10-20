@@ -1,0 +1,9 @@
+F:\CIS Classes\CIS 199\Demo from book\Birth Date String\Birth Date String\bin\Debug\Birth Date String.exe.config
+F:\CIS Classes\CIS 199\Demo from book\Birth Date String\Birth Date String\bin\Debug\Birth Date String.exe
+F:\CIS Classes\CIS 199\Demo from book\Birth Date String\Birth Date String\bin\Debug\Birth Date String.pdb
+F:\CIS Classes\CIS 199\Demo from book\Birth Date String\Birth Date String\obj\Debug\Birth Date String.csprojResolveAssemblyReference.cache
+F:\CIS Classes\CIS 199\Demo from book\Birth Date String\Birth Date String\obj\Debug\Birth_Date_String.Form1.resources
+F:\CIS Classes\CIS 199\Demo from book\Birth Date String\Birth Date String\obj\Debug\Birth_Date_String.Properties.Resources.resources
+F:\CIS Classes\CIS 199\Demo from book\Birth Date String\Birth Date String\obj\Debug\Birth Date String.csproj.GenerateResource.Cache
+F:\CIS Classes\CIS 199\Demo from book\Birth Date String\Birth Date String\obj\Debug\Birth Date String.exe
+F:\CIS Classes\CIS 199\Demo from book\Birth Date String\Birth Date String\obj\Debug\Birth Date String.pdb

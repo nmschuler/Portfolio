@@ -1,0 +1,12 @@
+E:\CIS Classes\CIS 199\Demo from book\Sale Price Calculator\Sale Price Calculator\bin\Debug\Sale Price Calculator.exe.config
+E:\CIS Classes\CIS 199\Demo from book\Sale Price Calculator\Sale Price Calculator\bin\Debug\Sale Price Calculator.exe
+E:\CIS Classes\CIS 199\Demo from book\Sale Price Calculator\Sale Price Calculator\bin\Debug\Sale Price Calculator.pdb
+E:\CIS Classes\CIS 199\Demo from book\Sale Price Calculator\Sale Price Calculator\obj\Debug\Sale Price Calculator.csprojResolveAssemblyReference.cache
+E:\CIS Classes\CIS 199\Demo from book\Sale Price Calculator\Sale Price Calculator\obj\Debug\Sale_Price_Calculator.Form1.resources
+E:\CIS Classes\CIS 199\Demo from book\Sale Price Calculator\Sale Price Calculator\obj\Debug\Sale_Price_Calculator.Properties.Resources.resources
+E:\CIS Classes\CIS 199\Demo from book\Sale Price Calculator\Sale Price Calculator\obj\Debug\Sale Price Calculator.csproj.GenerateResource.Cache
+E:\CIS Classes\CIS 199\Demo from book\Sale Price Calculator\Sale Price Calculator\obj\Debug\Sale Price Calculator.exe
+E:\CIS Classes\CIS 199\Demo from book\Sale Price Calculator\Sale Price Calculator\obj\Debug\Sale Price Calculator.pdb
+C:\Users\nmschu05\Desktop\CIS 199-20161020T161740Z\CIS 199\Demo from book\Demo from book\Sale Price Calculator\Sale Price Calculator\bin\Debug\Sale Price Calculator.exe.config
+C:\Users\nmschu05\Desktop\CIS 199-20161020T161740Z\CIS 199\Demo from book\Demo from book\Sale Price Calculator\Sale Price Calculator\obj\Debug\Sale Price Calculator.exe
+C:\Users\nmschu05\Desktop\CIS 199-20161020T161740Z\CIS 199\Demo from book\Demo from book\Sale Price Calculator\Sale Price Calculator\obj\Debug\Sale Price Calculator.pdb

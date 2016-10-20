@@ -1,0 +1,28 @@
+C:\Users\nmschu05\Desktop\Lab9\Lab9\bin\Debug\Lab9.exe.config
+C:\Users\nmschu05\Desktop\Lab 9\Lab9\Lab9\bin\Debug\Lab9.exe.config
+C:\Users\nmschu05\Desktop\Lab 9\Lab9\Lab9\bin\Debug\Lab9.exe
+C:\Users\nmschu05\Desktop\Lab 9\Lab9\Lab9\bin\Debug\Lab9.pdb
+C:\Users\nmschu05\Desktop\Lab 9\Lab9\Lab9\obj\Debug\Lab9.csprojResolveAssemblyReference.cache
+C:\Users\nmschu05\Desktop\Lab 9\Lab9\Lab9\obj\Debug\Lab9.DateForm.resources
+C:\Users\nmschu05\Desktop\Lab 9\Lab9\Lab9\obj\Debug\Lab9.Properties.Resources.resources
+C:\Users\nmschu05\Desktop\Lab 9\Lab9\Lab9\obj\Debug\Lab9.csproj.GenerateResource.Cache
+C:\Users\nmschu05\Desktop\Lab 9\Lab9\Lab9\obj\Debug\Lab9.exe
+C:\Users\nmschu05\Desktop\Lab 9\Lab9\Lab9\obj\Debug\Lab9.pdb
+F:\CIS Classes\CIS 199\Labs\Lab 9\Lab 9 - worked\Lab9\Lab9\bin\Debug\Lab9.exe.config
+F:\CIS Classes\CIS 199\Labs\Lab 9\Lab 9 - worked\Lab9\Lab9\obj\Debug\Lab9.exe
+F:\CIS Classes\CIS 199\Labs\Lab 9\Lab 9 - worked\Lab9\Lab9\obj\Debug\Lab9.pdb
+C:\Users\Nick\Desktop\Lab 9 - worked\Lab9\Lab9\bin\Debug\Lab9.exe.config
+C:\Users\Nick\Desktop\Lab 9 - worked\Lab9\Lab9\obj\Debug\Lab9.exe
+C:\Users\Nick\Desktop\Lab 9 - worked\Lab9\Lab9\obj\Debug\Lab9.pdb
+E:\CIS Classes\CIS 199\Labs\Lab 9\Lab 9 - worked\Lab9\Lab9\bin\Debug\Lab9.exe.config
+E:\CIS Classes\CIS 199\Labs\Lab 9\Lab 9 - worked\Lab9\Lab9\obj\Debug\Lab9.exe
+E:\CIS Classes\CIS 199\Labs\Lab 9\Lab 9 - worked\Lab9\Lab9\obj\Debug\Lab9.pdb
+F:\CIS Classes\CIS 199\Labs\Lab 9\Lab 9 - worked\Lab9\Lab9\bin\Debug\Lab9.exe
+F:\CIS Classes\CIS 199\Labs\Lab 9\Lab 9 - worked\Lab9\Lab9\bin\Debug\Lab9.pdb
+F:\CIS Classes\CIS 199\Labs\Lab 9\Lab 9 - worked\Lab9\Lab9\obj\Debug\Lab9.csprojResolveAssemblyReference.cache
+F:\CIS Classes\CIS 199\Labs\Lab 9\Lab 9 - worked\Lab9\Lab9\obj\Debug\Lab9.DateForm.resources
+F:\CIS Classes\CIS 199\Labs\Lab 9\Lab 9 - worked\Lab9\Lab9\obj\Debug\Lab9.Properties.Resources.resources
+F:\CIS Classes\CIS 199\Labs\Lab 9\Lab 9 - worked\Lab9\Lab9\obj\Debug\Lab9.csproj.GenerateResource.Cache
+E:\CIS Classes\CIS 199\Labs\Lab 9\Lab 9\Lab9\Lab9\bin\Debug\Lab9.exe.config
+E:\CIS Classes\CIS 199\Labs\Lab 9\Lab 9\Lab9\Lab9\obj\Debug\Lab9.exe
+E:\CIS Classes\CIS 199\Labs\Lab 9\Lab 9\Lab9\Lab9\obj\Debug\Lab9.pdb

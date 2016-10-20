@@ -1,0 +1,9 @@
+F:\CIS Classes\CIS 199\Lab 2\Lab 2\Lab 2\bin\Debug\Lab 2.exe.config
+F:\CIS Classes\CIS 199\Lab 2\Lab 2\Lab 2\obj\Debug\Lab 2.csprojResolveAssemblyReference.cache
+F:\CIS Classes\CIS 199\Lab 2\Lab 2\Lab 2\obj\Debug\Lab_2.Form1.resources
+F:\CIS Classes\CIS 199\Lab 2\Lab 2\Lab 2\obj\Debug\Lab_2.Properties.Resources.resources
+F:\CIS Classes\CIS 199\Lab 2\Lab 2\Lab 2\obj\Debug\Lab 2.csproj.GenerateResource.Cache
+F:\CIS Classes\CIS 199\Lab 2\Lab 2\Lab 2\bin\Debug\Lab 2.exe
+F:\CIS Classes\CIS 199\Lab 2\Lab 2\Lab 2\bin\Debug\Lab 2.pdb
+F:\CIS Classes\CIS 199\Lab 2\Lab 2\Lab 2\obj\Debug\Lab 2.exe
+F:\CIS Classes\CIS 199\Lab 2\Lab 2\Lab 2\obj\Debug\Lab 2.pdb

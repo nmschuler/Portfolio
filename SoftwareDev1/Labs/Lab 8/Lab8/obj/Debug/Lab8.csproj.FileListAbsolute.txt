@@ -1,0 +1,18 @@
+C:\Users\nmschu05\Desktop\Lab8\Lab8\bin\Debug\Lab8.exe.config
+C:\Users\nmschu05\Desktop\Lab8\Lab8\bin\Debug\Lab8.exe
+C:\Users\nmschu05\Desktop\Lab8\Lab8\bin\Debug\Lab8.pdb
+C:\Users\nmschu05\Desktop\Lab8\Lab8\obj\Debug\Lab8.csprojResolveAssemblyReference.cache
+C:\Users\nmschu05\Desktop\Lab8\Lab8\obj\Debug\Lab8.Form1.resources
+C:\Users\nmschu05\Desktop\Lab8\Lab8\obj\Debug\Lab8.Properties.Resources.resources
+C:\Users\nmschu05\Desktop\Lab8\Lab8\obj\Debug\Lab8.csproj.GenerateResource.Cache
+C:\Users\nmschu05\Desktop\Lab8\Lab8\obj\Debug\Lab8.exe
+C:\Users\nmschu05\Desktop\Lab8\Lab8\obj\Debug\Lab8.pdb
+F:\CIS Classes\CIS 199\Lab 8\Lab8\Lab8\bin\Debug\Lab8.exe.config
+F:\CIS Classes\CIS 199\Lab 8\Lab8\Lab8\obj\Debug\Lab8.exe
+F:\CIS Classes\CIS 199\Lab 8\Lab8\Lab8\obj\Debug\Lab8.pdb
+F:\CIS Classes\CIS 199\Lab 8\Lab8\Lab8\bin\Debug\Lab8.exe
+F:\CIS Classes\CIS 199\Lab 8\Lab8\Lab8\bin\Debug\Lab8.pdb
+F:\CIS Classes\CIS 199\Lab 8\Lab8\Lab8\obj\Debug\Lab8.csprojResolveAssemblyReference.cache
+F:\CIS Classes\CIS 199\Lab 8\Lab8\Lab8\obj\Debug\Lab8.Form1.resources
+F:\CIS Classes\CIS 199\Lab 8\Lab8\Lab8\obj\Debug\Lab8.Properties.Resources.resources
+F:\CIS Classes\CIS 199\Lab 8\Lab8\Lab8\obj\Debug\Lab8.csproj.GenerateResource.Cache

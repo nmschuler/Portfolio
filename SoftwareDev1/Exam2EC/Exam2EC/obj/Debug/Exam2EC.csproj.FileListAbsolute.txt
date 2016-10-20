@@ -1,0 +1,9 @@
+C:\Users\nmschu05\Desktop\Exam2EC\Exam2EC\bin\Debug\Exam2EC.exe.config
+C:\Users\nmschu05\Desktop\Exam2EC\Exam2EC\bin\Debug\Exam2EC.exe
+C:\Users\nmschu05\Desktop\Exam2EC\Exam2EC\bin\Debug\Exam2EC.pdb
+C:\Users\nmschu05\Desktop\Exam2EC\Exam2EC\obj\Debug\Exam2EC.csprojResolveAssemblyReference.cache
+C:\Users\nmschu05\Desktop\Exam2EC\Exam2EC\obj\Debug\Exam2EC.Form1.resources
+C:\Users\nmschu05\Desktop\Exam2EC\Exam2EC\obj\Debug\Exam2EC.Properties.Resources.resources
+C:\Users\nmschu05\Desktop\Exam2EC\Exam2EC\obj\Debug\Exam2EC.csproj.GenerateResource.Cache
+C:\Users\nmschu05\Desktop\Exam2EC\Exam2EC\obj\Debug\Exam2EC.exe
+C:\Users\nmschu05\Desktop\Exam2EC\Exam2EC\obj\Debug\Exam2EC.pdb

@@ -1,0 +1,27 @@
+C:\Users\nmschu05\Desktop\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\nmschu05\Desktop\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\nmschu05\Desktop\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\nmschu05\Desktop\Lab4\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+C:\Users\nmschu05\Desktop\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+C:\Users\nmschu05\Desktop\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\nmschu05\Desktop\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.Cache
+C:\Users\nmschu05\Desktop\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\nmschu05\Desktop\Lab4\Lab4\obj\Debug\Lab4.pdb
+F:\CIS Classes\CIS 199\Lab 4\Lab4\Lab4\bin\Debug\Lab4.exe.config
+F:\CIS Classes\CIS 199\Lab 4\Lab4\Lab4\obj\Debug\Lab4.exe
+F:\CIS Classes\CIS 199\Lab 4\Lab4\Lab4\obj\Debug\Lab4.pdb
+F:\CIS Classes\CIS 199\Lab 4\Lab4\Lab4\bin\Debug\Lab4.exe
+F:\CIS Classes\CIS 199\Lab 4\Lab4\Lab4\bin\Debug\Lab4.pdb
+F:\CIS Classes\CIS 199\Lab 4\Lab4\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+F:\CIS Classes\CIS 199\Lab 4\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+F:\CIS Classes\CIS 199\Lab 4\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+F:\CIS Classes\CIS 199\Lab 4\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.Cache
+E:\CIS Classes\CIS 199\Lab 4\Lab4\Lab4\bin\Debug\Lab4.exe.config
+E:\CIS Classes\CIS 199\Lab 4\Lab4\Lab4\obj\Debug\Lab4.exe
+E:\CIS Classes\CIS 199\Lab 4\Lab4\Lab4\obj\Debug\Lab4.pdb
+E:\CIS Classes\CIS 199\Lab 4\Lab4\Lab4\bin\Debug\Lab4.exe
+E:\CIS Classes\CIS 199\Lab 4\Lab4\Lab4\bin\Debug\Lab4.pdb
+E:\CIS Classes\CIS 199\Lab 4\Lab4\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+E:\CIS Classes\CIS 199\Lab 4\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+E:\CIS Classes\CIS 199\Lab 4\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+E:\CIS Classes\CIS 199\Lab 4\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.Cache

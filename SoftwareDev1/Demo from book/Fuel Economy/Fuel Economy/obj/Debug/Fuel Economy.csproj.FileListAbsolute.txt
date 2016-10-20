@@ -1,0 +1,9 @@
+E:\CIS Classes\CIS 199\Demo from book\Fuel Economy\Fuel Economy\bin\Debug\Fuel Economy.exe.config
+E:\CIS Classes\CIS 199\Demo from book\Fuel Economy\Fuel Economy\bin\Debug\Fuel Economy.exe
+E:\CIS Classes\CIS 199\Demo from book\Fuel Economy\Fuel Economy\bin\Debug\Fuel Economy.pdb
+E:\CIS Classes\CIS 199\Demo from book\Fuel Economy\Fuel Economy\obj\Debug\Fuel Economy.csprojResolveAssemblyReference.cache
+E:\CIS Classes\CIS 199\Demo from book\Fuel Economy\Fuel Economy\obj\Debug\Fuel_Economy.Form1.resources
+E:\CIS Classes\CIS 199\Demo from book\Fuel Economy\Fuel Economy\obj\Debug\Fuel_Economy.Properties.Resources.resources
+E:\CIS Classes\CIS 199\Demo from book\Fuel Economy\Fuel Economy\obj\Debug\Fuel Economy.csproj.GenerateResource.Cache
+E:\CIS Classes\CIS 199\Demo from book\Fuel Economy\Fuel Economy\obj\Debug\Fuel Economy.exe
+E:\CIS Classes\CIS 199\Demo from book\Fuel Economy\Fuel Economy\obj\Debug\Fuel Economy.pdb

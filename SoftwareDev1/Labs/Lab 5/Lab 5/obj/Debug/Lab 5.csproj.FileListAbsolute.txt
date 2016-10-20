@@ -1,0 +1,12 @@
+F:\CIS Classes\CIS 199\Lab 5\Lab 5\Lab 5\bin\Debug\Lab 5.exe.config
+F:\CIS Classes\CIS 199\Lab 5\Lab 5\Lab 5\obj\Debug\Lab 5.csprojResolveAssemblyReference.cache
+F:\CIS Classes\CIS 199\Lab 5\Lab 5\Lab 5\bin\Debug\Lab 5.exe
+F:\CIS Classes\CIS 199\Lab 5\Lab 5\Lab 5\bin\Debug\Lab 5.pdb
+F:\CIS Classes\CIS 199\Lab 5\Lab 5\Lab 5\obj\Debug\Lab 5.exe
+F:\CIS Classes\CIS 199\Lab 5\Lab 5\Lab 5\obj\Debug\Lab 5.pdb
+E:\CIS Classes\CIS 199\Lab 5\Lab 5\Lab 5\bin\Debug\Lab 5.exe.config
+E:\CIS Classes\CIS 199\Lab 5\Lab 5\Lab 5\obj\Debug\Lab 5.exe
+E:\CIS Classes\CIS 199\Lab 5\Lab 5\Lab 5\obj\Debug\Lab 5.pdb
+E:\CIS Classes\CIS 199\Lab 5\Lab 5\Lab 5\bin\Debug\Lab 5.exe
+E:\CIS Classes\CIS 199\Lab 5\Lab 5\Lab 5\bin\Debug\Lab 5.pdb
+E:\CIS Classes\CIS 199\Lab 5\Lab 5\Lab 5\obj\Debug\Lab 5.csprojResolveAssemblyReference.cache

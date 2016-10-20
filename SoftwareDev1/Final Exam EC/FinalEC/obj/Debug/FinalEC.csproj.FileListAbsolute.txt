@@ -1,0 +1,18 @@
+c:\users\nmschu05\documents\visual studio 2012\Projects\FinalEC\FinalEC\bin\Debug\FinalEC.exe.config
+c:\users\nmschu05\documents\visual studio 2012\Projects\FinalEC\FinalEC\bin\Debug\FinalEC.exe
+c:\users\nmschu05\documents\visual studio 2012\Projects\FinalEC\FinalEC\bin\Debug\FinalEC.pdb
+c:\users\nmschu05\documents\visual studio 2012\Projects\FinalEC\FinalEC\obj\Debug\FinalEC.csprojResolveAssemblyReference.cache
+c:\users\nmschu05\documents\visual studio 2012\Projects\FinalEC\FinalEC\obj\Debug\FinalEC.Form1.resources
+c:\users\nmschu05\documents\visual studio 2012\Projects\FinalEC\FinalEC\obj\Debug\FinalEC.Properties.Resources.resources
+c:\users\nmschu05\documents\visual studio 2012\Projects\FinalEC\FinalEC\obj\Debug\FinalEC.csproj.GenerateResource.Cache
+c:\users\nmschu05\documents\visual studio 2012\Projects\FinalEC\FinalEC\obj\Debug\FinalEC.exe
+c:\users\nmschu05\documents\visual studio 2012\Projects\FinalEC\FinalEC\obj\Debug\FinalEC.pdb
+C:\Users\nmschu05\Desktop\FinalEC\FinalEC\bin\Debug\FinalEC.exe.config
+C:\Users\nmschu05\Desktop\FinalEC\FinalEC\obj\Debug\FinalEC.exe
+C:\Users\nmschu05\Desktop\FinalEC\FinalEC\obj\Debug\FinalEC.pdb
+C:\Users\nmschu05\Desktop\FinalEC\FinalEC\bin\Debug\FinalEC.exe
+C:\Users\nmschu05\Desktop\FinalEC\FinalEC\bin\Debug\FinalEC.pdb
+C:\Users\nmschu05\Desktop\FinalEC\FinalEC\obj\Debug\FinalEC.csprojResolveAssemblyReference.cache
+C:\Users\nmschu05\Desktop\FinalEC\FinalEC\obj\Debug\FinalEC.Form1.resources
+C:\Users\nmschu05\Desktop\FinalEC\FinalEC\obj\Debug\FinalEC.Properties.Resources.resources
+C:\Users\nmschu05\Desktop\FinalEC\FinalEC\obj\Debug\FinalEC.csproj.GenerateResource.Cache

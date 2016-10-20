@@ -1,0 +1,1 @@
+These are all projects that came out of the textbook. These were not assigned as homework. These were completed on my own. The textbook gave a prompt of what we need to do, and then a solution file to make sure it was right or if we needed a help on a certain step. This was my first programming class so these are all works I did with a couple weeks of programming knowledge.

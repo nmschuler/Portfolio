@@ -1,0 +1,47 @@
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15S\Progs\Prog2Start\Prog2\Prog2\bin\Debug\Prog2.exe.config
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15S\Progs\Prog2Start\Prog2\Prog2\bin\Debug\Prog2.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15S\Progs\Prog2Start\Prog2\Prog2\bin\Debug\Prog2.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15S\Progs\Prog2Start\Prog2\Prog2\obj\Debug\Prog2.csprojResolveAssemblyReference.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15S\Progs\Prog2Start\Prog2\Prog2\obj\Debug\Prog2.csproj.GenerateResource.Cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15S\Progs\Prog2Start\Prog2\Prog2\obj\Debug\Prog2.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15S\Progs\Prog2Start\Prog2\Prog2\obj\Debug\Prog2.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15S\Progs\Prog2Start\Prog2\Prog2\obj\Debug\LibraryItems.Properties.Resources.resources
+F:\CIS Classes\CIS 200 Prog 2\Program 2\Prog2\Prog2\Prog2\bin\Debug\Prog2.exe.config
+F:\CIS Classes\CIS 200 Prog 2\Program 2\Prog2\Prog2\Prog2\obj\Debug\Prog2.exe
+F:\CIS Classes\CIS 200 Prog 2\Program 2\Prog2\Prog2\Prog2\obj\Debug\Prog2.pdb
+F:\CIS Classes\CIS 200 Prog 2\Program 2\Prog2\Prog2\Prog2\bin\Debug\Prog2.exe
+F:\CIS Classes\CIS 200 Prog 2\Program 2\Prog2\Prog2\Prog2\bin\Debug\Prog2.pdb
+F:\CIS Classes\CIS 200 Prog 2\Program 2\Prog2\Prog2\Prog2\obj\Debug\Prog2.csprojResolveAssemblyReference.cache
+F:\CIS Classes\CIS 200 Prog 2\Program 2\Prog2\Prog2\Prog2\obj\Debug\LibraryItems.Form1.resources
+F:\CIS Classes\CIS 200 Prog 2\Program 2\Prog2\Prog2\Prog2\obj\Debug\LibraryItems.Properties.Resources.resources
+F:\CIS Classes\CIS 200 Prog 2\Program 2\Prog2\Prog2\Prog2\obj\Debug\Prog2.csproj.GenerateResource.Cache
+F:\CIS Classes\CIS 200 Prog 2\Program 2\Prog2\Prog2\Prog2\obj\Debug\LibraryItems.PatronDialogBox.resources
+F:\CIS Classes\CIS 200 Prog 2\Program 2\Prog2\Prog2\Prog2\obj\Debug\LibraryItems.BookDialogBox.resources
+F:\CIS Classes\CIS 200 Prog 2\Program 2\Prog2\Prog2\Prog2\obj\Debug\LibraryItems.CheckOutDialogBox.resources
+F:\CIS Classes\CIS 200 Prog 2\Program 2\Prog2\Prog2\Prog2\obj\Debug\LibraryItems.ReturnItemDialogBox.resources
+C:\Users\nmschu05\Desktop\Prog2\Prog2\Prog2\bin\Debug\Prog2.exe.config
+C:\Users\nmschu05\Desktop\Prog2\Prog2\Prog2\obj\Debug\Prog2.exe
+C:\Users\nmschu05\Desktop\Prog2\Prog2\Prog2\obj\Debug\Prog2.pdb
+C:\Users\nmschu05\Desktop\Prog2\Prog2\Prog2\bin\Debug\Prog2.exe
+C:\Users\nmschu05\Desktop\Prog2\Prog2\Prog2\bin\Debug\Prog2.pdb
+C:\Users\nmschu05\Desktop\Prog2\Prog2\Prog2\obj\Debug\Prog2.csprojResolveAssemblyReference.cache
+C:\Users\nmschu05\Desktop\Prog2\Prog2\Prog2\obj\Debug\LibraryItems.BookDialogBox.resources
+C:\Users\nmschu05\Desktop\Prog2\Prog2\Prog2\obj\Debug\LibraryItems.CheckOutDialogBox.resources
+C:\Users\nmschu05\Desktop\Prog2\Prog2\Prog2\obj\Debug\LibraryItems.Form1.resources
+C:\Users\nmschu05\Desktop\Prog2\Prog2\Prog2\obj\Debug\LibraryItems.PatronDialogBox.resources
+C:\Users\nmschu05\Desktop\Prog2\Prog2\Prog2\obj\Debug\LibraryItems.Properties.Resources.resources
+C:\Users\nmschu05\Desktop\Prog2\Prog2\Prog2\obj\Debug\LibraryItems.ReturnItemDialogBox.resources
+C:\Users\nmschu05\Desktop\Prog2\Prog2\Prog2\obj\Debug\Prog2.csproj.GenerateResource.Cache
+F:\CIS Classes\CIS 200 Prog 2\Program 2\Prog 2\Prog2\Prog2\bin\Debug\Prog2.exe.config
+F:\CIS Classes\CIS 200 Prog 2\Program 2\Prog 2\Prog2\Prog2\obj\Debug\Prog2.exe
+F:\CIS Classes\CIS 200 Prog 2\Program 2\Prog 2\Prog2\Prog2\obj\Debug\Prog2.pdb
+F:\CIS Classes\CIS 200 Prog 2\Program 2\Prog 2\Prog2\Prog2\obj\Debug\Prog2.csprojResolveAssemblyReference.cache
+F:\CIS Classes\CIS 200 Prog 2\Program 2\Prog 2\Prog2\Prog2\obj\Debug\LibraryItems.BookDialogBox.resources
+F:\CIS Classes\CIS 200 Prog 2\Program 2\Prog 2\Prog2\Prog2\obj\Debug\LibraryItems.CheckOutDialogBox.resources
+F:\CIS Classes\CIS 200 Prog 2\Program 2\Prog 2\Prog2\Prog2\obj\Debug\LibraryItems.Form1.resources
+F:\CIS Classes\CIS 200 Prog 2\Program 2\Prog 2\Prog2\Prog2\obj\Debug\LibraryItems.PatronDialogBox.resources
+F:\CIS Classes\CIS 200 Prog 2\Program 2\Prog 2\Prog2\Prog2\obj\Debug\LibraryItems.Properties.Resources.resources
+F:\CIS Classes\CIS 200 Prog 2\Program 2\Prog 2\Prog2\Prog2\obj\Debug\LibraryItems.ReturnItemDialogBox.resources
+F:\CIS Classes\CIS 200 Prog 2\Program 2\Prog 2\Prog2\Prog2\obj\Debug\Prog2.csproj.GenerateResource.Cache
+F:\CIS Classes\CIS 200 Prog 2\Program 2\Prog 2\Prog2\Prog2\bin\Debug\Prog2.exe
+F:\CIS Classes\CIS 200 Prog 2\Program 2\Prog 2\Prog2\Prog2\bin\Debug\Prog2.pdb

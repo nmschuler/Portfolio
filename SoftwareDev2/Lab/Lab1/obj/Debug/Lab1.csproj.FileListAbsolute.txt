@@ -1,0 +1,18 @@
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_13F\Labs\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_13F\Labs\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_13F\Labs\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_13F\Labs\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_13F\Labs\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_13F\Labs\Lab1\Lab1\obj\Debug\Lab1.pdb
+F:\CIS Classes\CIS 200 Prog 2\Lab1\Lab1 Start File\Lab1\Lab1\bin\Debug\Lab1.exe.config
+F:\CIS Classes\CIS 200 Prog 2\Lab1\Lab1 Start File\Lab1\Lab1\obj\Debug\Lab1.exe
+F:\CIS Classes\CIS 200 Prog 2\Lab1\Lab1 Start File\Lab1\Lab1\obj\Debug\Lab1.pdb
+F:\CIS Classes\CIS 200 Prog 2\Lab1\Lab1 Start File\Lab1\Lab1\bin\Debug\Lab1.exe
+F:\CIS Classes\CIS 200 Prog 2\Lab1\Lab1 Start File\Lab1\Lab1\bin\Debug\Lab1.pdb
+F:\CIS Classes\CIS 200 Prog 2\Lab1\Lab1 Start File\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+E:\CIS Classes\CIS 200 Prog 2\Lab1\Lab1 Start File\Lab1\Lab1\bin\Debug\Lab1.exe.config
+E:\CIS Classes\CIS 200 Prog 2\Lab1\Lab1 Start File\Lab1\Lab1\obj\Debug\Lab1.exe
+E:\CIS Classes\CIS 200 Prog 2\Lab1\Lab1 Start File\Lab1\Lab1\obj\Debug\Lab1.pdb
+E:\CIS Classes\CIS 200 Prog 2\Lab1\Lab1 Start File\Lab1\Lab1\bin\Debug\Lab1.exe
+E:\CIS Classes\CIS 200 Prog 2\Lab1\Lab1 Start File\Lab1\Lab1\bin\Debug\Lab1.pdb
+E:\CIS Classes\CIS 200 Prog 2\Lab1\Lab1 Start File\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache

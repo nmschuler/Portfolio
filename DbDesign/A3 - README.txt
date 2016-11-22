@@ -1,5 +1,0 @@
-Part1. Write the business rules for the given database. Save the rules in a file named A3.docx.
-
-Part2: Create a Crow's Foot ERD for the database in Visio and name the file A3.vsd. Each table must have at least a)PK; b) any FK(s); c) at least one non-key attribute. Make sure the relationships are properly set up.
-
-You must submit the files to Blackboard on or before 2:30pm on the due date  and submit a printed copy at the start of the class on the due date. You must have class name, section, assignment number, and your name on a cover page or the first page of the printed copy. If your answers take up more than one sheet of paper, please staple all the sheets together. Points will be deducted from the assignment if the requested information is missing and/or the sheets are not stapled. You will lose 10% of the points for each calendar day the assignment is late.
